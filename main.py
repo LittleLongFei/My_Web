@@ -16,7 +16,7 @@ st.set_page_config(
 
 # 头像
 image = Image.open(r'./Resource/1.png')
-st.image(image, width=500, height=300, caption = "Hui Zhang, 2021")
+st.image(image, width=500, height=300)
 
 
 
