@@ -28,13 +28,32 @@ st.markdown("E-mail: 202234949@mail.sdu.edu.cn, bigserendipty@gmail.com")
 
 st.success("Research Interest")
 
+st.markdown("人工智能")
+st.caption("机器学习, 深度学习, 对比学习, 表征学习, 神经架构搜索, 自动机器学习, 强化学习, 迁移学习, 模糊逻辑, 域适应, 随机特征, 科学机器学习")
 
-st.markdown("机器学习, 深度学习, 对比学习, 神经架构搜索, 强化学习, 迁移学习, 域适应, 随机特征, 科学机器学习...")
-st.markdown("卷积神经网络(CNN), 长短期记忆网络(LSTM), 残差神经网络(RNN), 宽度学习系统(BLS), 区间二型模糊逻辑系统(IT2FLS), TSK模糊逻辑系统, 深度模糊系统(DFS), Transformer, 物理信息神经网络...")
-st.markdown("自适应优化算法, 进化算法, 梯度下降算法, 前向自动微分, 反向传播算法...")
-st.markdown("新能源—负荷长序列预测, 综合能源系统规划设计, 综合能源系统优化控制, 机器学习回归任务, 机器学习分类任务, 机器学习聚类任务...")
-st.markdown("软件开发, 硬件设计, 算法实现, Vue框架, SpringBoot框架, PyQt5框架, Streamlit框架, JAX框架, PyTorch框架...")
-st.markdown("C语言, C++, Python, Java, Java Web...")
+st.markdown("神经网络")
+st.caption("卷积神经网络(CNN), 长短期记忆网络(LSTM), 残差神经网络(RNN), 宽度学习系统(BLS), Transformer, 物理信息神经网络, 深度置信网络")
+
+st.markdown("模糊逻辑系统")
+st.caption("区间二型模糊逻辑系统(IT2-FLS), TSK模糊逻辑系统(TSK-FLS), 深度模糊系统(DFS)")
+
+st.markdown("算法")
+st.caption("自适应优化算法, 进化算法(启发式算法), 梯度下降算法, 前向自动微分, 反向传播算法")
+
+st.markdown("其他")
+st.caption("随机特征, 泛化性能")
+
+st.markdown("任务")
+st.caption("分类, 回归, 聚类, 时间序列预测, 特征工程, 长序列预测(LSTP)")
+
+st.markdown("综合能源系统")
+st.caption("新能源—负荷长序列预测, 综合能源系统规划设计, 综合能源系统优化控制")
+
+st.markdown("氢安全")
+st.caption("氢气泄漏扩散演化路径建模")
+
+st.markdown("计算机")
+st.caption("软件开发, 硬件设计, 算法实现, Vue框架, SpringBoot框架, PyQt5框架, Streamlit框架, JAX框架, PyTorch框架, C语言, C++, Python, Java, JS")
 
 
 # 研究论文
@@ -66,8 +85,7 @@ st.caption("[1] 孙波, 李志龙, **张辉**, 一种基于物理信息神经网
 st.caption("[1] 孙波, 张良, **张辉**, 基于改进自适应物理信息网络的综合能源系统数字孪生建模方法, ***国家发明专利***")
             
 st.success("Standard")
-st.caption(
-    "[1] 潘凤文, 孙波, 张立志, 张全军, 刘洋, **张辉**, 吴睿, 杨锋, 王迎波, 秦顺顺, 冯美丽, 含氢分布式综合能源系统运行优化指南, ***地方/行业标准***")
+st.caption("[1] 潘凤文, 孙波, 张立志, 张全军, 刘洋, **张辉**, 吴睿, 杨锋, 王迎波, 秦顺顺, 冯美丽, 含氢分布式综合能源系统运行优化指南, ***地方/行业标准***")
 
 
 
