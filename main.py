@@ -46,7 +46,7 @@ st.markdown("[2] **H.Zhang**, B.Sun .et al. Interval Type-2 Fuzzy Logic System B
 st.markdown("[3] **H.Zhang**, B.Sun and W.Peng*. A novel hybrid deep fuzzy model based on gradient descent algorithm with application to time series forecasting, ***Expert Systems with Applications***, 2023, doi:10.1016/j.eswa.2023.121988, ***SCI-Q1***, ***TOP***, IF=8.5")
 st.caption("已投稿")
 st.markdown("[4] L.Zhang, **H.Zhang**, F.Li and B.Sun*. Bi-level Optimal Design of Integrated Energy System with Synergy of Renewables, Conversion, Storage and Demand, ***IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS***, SCI-Q2, IF=4.4")
-st.header("待投稿")
+st.caption("待投稿")
 st.markdown("[5] **H.Zhang**, W.Peng*. Mini-Batch Forward Automatic Differentiation based on Efficient Adaptive Optimization Algorithm for TSK Fuzzy Systems, ***IEEE TRANSACTIONS ON FUZYY SYSTEMS***, SCI-Q1, ***TOP***, IF=11.9")
 st.markdown("[6] H.Ming, **H.Zhang**, N.Cui*. Battery life estimation method based on forward adaptive width learning, ***Energy***, SCI-Q1, ***TOP***, IF=9")
 st.caption("进行中")
