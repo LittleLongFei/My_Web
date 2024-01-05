@@ -52,7 +52,7 @@ st.markdown("[6] H.Ming, **H.Zhang**, N.Cui*. Battery life estimation method bas
 st.header("进行中")
 st.markdown("[7] MR.Qi, **H.Zhang**, XY.Li*. ***International Journal of Nursing Studies***, SCI-Q1, ***TOP***, IF=8.1")
 st.markdown("[8] JW.Zhu, **H.Zhang**, H.Jiang*. ***LWT***, SCI-Q1, ***TOP***, IF=6"")
-st.markdown("[9] **H.Zhang**, L.Zhang, B.Sun*. ***Engineering Applications Of Artificial Intelligence***, SCI-Q2, ***TOP***, IF=8"")
+st.markdown("[9] **H.Zhang**, L.Zhang, B.Sun*. ***Engineering Applications Of Artificial Intelligence***, SCI-Q2, ***TOP***, IF=8")
 st.markdown("[10] **H.Zhang**, LZ.Zhang, B.Sun*. ***IEEE TRANSACTIONS ON SMART GRID***, SCI-Q1, ***TOP***, IF=9.6"")
 st.markdown("[11] **H.Zhang**, B.Sun*. ***NATURE METHODS***, SCI-Q1, ***TOP***, IF=48"")
 
