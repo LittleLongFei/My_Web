@@ -24,23 +24,36 @@ st.markdown("# Hui-Zhang")
 st.markdown("山东大学 控制科学与工程学院, 中国, 济南. ")
 st.markdown("E-mail: 202234949@mail.sdu.edu.cn, bigserendipty@gmail.com")
 
+# 研究兴趣
+
 st.success("Research Interest")
+
+
 st.markdown("机器学习, 深度学习, 对比学习, 神经架构搜索, 强化学习, 迁移学习, 域适应, 随机特征, 科学机器学习...")
 st.markdown("卷积神经网络(CNN), 长短期记忆网络(LSTM), 残差神经网络(RNN), 宽度学习系统(BLS), 区间二型模糊逻辑系统(IT2FLS), TSK模糊逻辑系统, 深度模糊系统(DFS), Transformer, 物理信息神经网络...")
 st.markdown("自适应优化算法, 进化算法, 梯度下降算法, 前向自动微分, 反向传播算法...")
-st.markdown(
-    "新能源—负荷长序列预测, 综合能源系统规划设计, 综合能源系统优化控制, 机器学习回归任务, 机器学习分类任务, 机器学习聚类任务...")
-st.markdown(
-    "软件开发, 硬件设计, 算法实现, Vue框架, SpringBoot框架, PyQt5框架, Streamlit框架, JAX框架, PyTorch框架...")
+st.markdown("新能源—负荷长序列预测, 综合能源系统规划设计, 综合能源系统优化控制, 机器学习回归任务, 机器学习分类任务, 机器学习聚类任务...")
+st.markdown("软件开发, 硬件设计, 算法实现, Vue框架, SpringBoot框架, PyQt5框架, Streamlit框架, JAX框架, PyTorch框架...")
 st.markdown("C语言, C++, Python, Java, Java Web...")
-st.success("Research Articles")
 
+
+# 研究论文
+
+st.success("Research Articles")
+st.header("已发表")
 st.markdown("[1] **H.Zhang**, W.Peng. Time Series Forecasting Based on Interval Type-2 Fuzzy Logic System with PSO, 2021 China Automation Congress (CAC), Beijing, China, 2021, pp. 3090-3097, doi: 10.1109/CAC53003.2021.9727414.")
 st.markdown("[2] **H.Zhang**, B.Sun .et al. Interval Type-2 Fuzzy Logic System Based on Batch Normalization and Uniform Regularization with Application to Time Series Forecasting, 2023 China Automation Congress (CAC), Chongqing, China, 2023")
 st.markdown("[3] **H.Zhang**, B.Sun and W.Peng*. A novel hybrid deep fuzzy model based on gradient descent algorithm with application to time series forecasting, ***Expert Systems with Applications***, 2023, doi:10.1016/j.eswa.2023.121988, SCI-Q1, TOP")
+st.header("已投稿")
 st.markdown("[4] L.Zhang, **H.Zhang**, F.Li and B.Sun*. Bi-level Optimal Design of Integrated Energy System with Synergy of Renewables, Conversion, Storage and Demand, ***IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS***, SCI-Q2")
+st.header("待投稿")
 st.markdown("[5] **H.Zhang**, W.Peng*. Mini-Batch Forward Automatic Differentiation based on Efficient Adaptive Optimization Algorithm for TSK Fuzzy Systems, ***IEEE TRANSACTIONS ON FUZYY SYSTEMS***, SCI-Q1, TOP")
 st.markdown("[6] H.Ming, **H.Zhang**, N.Cui*. Battery life estimation method based on forward adaptive width learning, ***Energy***, SCI-Q1, TOP")
+st.header("进行中")
+st.markdown("[7] MR.Qi, **H.Zhang**, XY.Li*. ***International Journal of Nursing Studies***, SCI-Q1, TOP, IF=8.1")
+st.markdown("[8] H.Ming, **H.Zhang**, N.Cui*. Battery life estimation method based on forward adaptive width learning, ***Energy***, SCI-Q1, TOP")
+
+
 
 st.success("Patent")
 st.markdown("[1] 孙波, **张辉**, 张立志, 一种集成结构—容量—运行的综合能源系统架构搜索方法, ***国家发明专利***")
