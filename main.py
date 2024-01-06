@@ -91,7 +91,7 @@ st.caption("[1] 潘凤文, 孙波, 张立志, 张全军, 刘洋, **张辉**, 吴
 
 # 项目
 
-st.success("Participate In Projects---------------------")
+st.success("Participate In Projects")
 
 st.markdown("已结题")
 st.caption("[1] **国家电网科技项目**, 多能互补综合能源系统协同优化控制研究, **项目骨干**, 经费**300万**元")
